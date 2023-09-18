@@ -1,0 +1,4 @@
+08-14 10:35 [MainProcess, 3802411] [INFO ]  Data sets: ['mnistm', 'mnist', 'usps', 'svhn', 'syn']
+08-14 10:35 [MainProcess, 3802411] [INFO ]  ----------------------------------------------------------------------------------------------------
+08-14 10:35 [MainProcess, 3802411] [INFO ]  Training with domain adaptation using PyTorch madnNet: 
+08-14 10:35 [MainProcess, 3802411] [INFO ]  Hyperparameter setting = {'num_epochs': 20, 'batch_size': 100, 'lr': 0.1, 'mu': 0.01, 'num_domains': 4, 'mode': 'dynamic', 'gamma': 10.0, 'verbose': True}.
