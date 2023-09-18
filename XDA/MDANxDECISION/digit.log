@@ -1,0 +1,253 @@
+08-14 10:18 [MainProcess, 3768870] [INFO ]  Data sets: ['mnistm', 'mnist', 'usps', 'svhn', 'syn']
+08-14 10:18 [MainProcess, 3768870] [INFO ]  ----------------------------------------------------------------------------------------------------
+08-14 10:18 [MainProcess, 3768870] [INFO ]  Training with domain adaptation using PyTorch madnNet: 
+08-14 10:18 [MainProcess, 3768870] [INFO ]  Hyperparameter setting = {'num_epochs': 20, 'batch_size': 256, 'lr': 0.1, 'mu': 0.01, 'num_domains': 4, 'mode': 'dynamic', 'gamma': 10.0, 'verbose': True}.
+08-14 10:22 [MainProcess, 3796078] [INFO ]  Data sets: ['mnistm', 'mnist', 'usps', 'svhn', 'syn']
+08-14 10:22 [MainProcess, 3796078] [INFO ]  ----------------------------------------------------------------------------------------------------
+08-14 10:22 [MainProcess, 3796078] [INFO ]  Training with domain adaptation using PyTorch madnNet: 
+08-14 10:22 [MainProcess, 3796078] [INFO ]  Hyperparameter setting = {'num_epochs': 20, 'batch_size': 100, 'lr': 0.1, 'mu': 0.01, 'num_domains': 4, 'mode': 'dynamic', 'gamma': 10.0, 'verbose': True}.
+08-14 10:29 [MainProcess, 3799428] [INFO ]  Data sets: ['mnistm', 'mnist', 'usps', 'svhn', 'syn']
+08-14 10:29 [MainProcess, 3799428] [INFO ]  ----------------------------------------------------------------------------------------------------
+08-14 10:29 [MainProcess, 3799428] [INFO ]  Training with domain adaptation using PyTorch madnNet: 
+08-14 10:29 [MainProcess, 3799428] [INFO ]  Hyperparameter setting = {'num_epochs': 20, 'batch_size': 100, 'lr': 0.1, 'mu': 0.01, 'num_domains': 4, 'mode': 'dynamic', 'gamma': 10.0, 'verbose': True}.
+08-14 10:30 [MainProcess, 3800087] [INFO ]  Data sets: ['mnistm', 'mnist', 'usps', 'svhn', 'syn']
+08-14 10:30 [MainProcess, 3800087] [INFO ]  ----------------------------------------------------------------------------------------------------
+08-14 10:30 [MainProcess, 3800087] [INFO ]  Training with domain adaptation using PyTorch madnNet: 
+08-14 10:30 [MainProcess, 3800087] [INFO ]  Hyperparameter setting = {'num_epochs': 20, 'batch_size': 100, 'lr': 0.1, 'mu': 0.01, 'num_domains': 4, 'mode': 'dynamic', 'gamma': 10.0, 'verbose': True}.
+08-14 10:38 [MainProcess, 3804414] [INFO ]  Data sets: ['mnistm', 'mnist', 'usps', 'svhn', 'syn']
+08-14 10:38 [MainProcess, 3804414] [INFO ]  ----------------------------------------------------------------------------------------------------
+08-14 10:38 [MainProcess, 3804414] [INFO ]  Training with domain adaptation using PyTorch madnNet: 
+08-14 10:38 [MainProcess, 3804414] [INFO ]  Hyperparameter setting = {'num_epochs': 20, 'batch_size': 100, 'lr': 0.1, 'mu': 0.01, 'num_domains': 4, 'mode': 'dynamic', 'gamma': 10.0, 'verbose': True}.
+08-14 10:38 [MainProcess, 3804414] [INFO ]  Iteration 0, loss = 220.68694046139717
+08-14 10:39 [MainProcess, 3805371] [INFO ]  Data sets: ['mnistm', 'mnist', 'usps', 'svhn', 'syn']
+08-14 10:39 [MainProcess, 3805371] [INFO ]  ----------------------------------------------------------------------------------------------------
+08-14 10:39 [MainProcess, 3805371] [INFO ]  Training with domain adaptation using PyTorch madnNet: 
+08-14 10:39 [MainProcess, 3805371] [INFO ]  Hyperparameter setting = {'num_epochs': 20, 'batch_size': 100, 'lr': 0.1, 'mu': 0.01, 'num_domains': 4, 'mode': 'dynamic', 'gamma': 10.0, 'verbose': True}.
+08-14 10:40 [MainProcess, 3805371] [INFO ]  Iteration 0, loss = 220.8745443224907
+08-14 10:40 [MainProcess, 3805371] [INFO ]  Iteration 1, loss = 131.56181100010872
+08-14 10:40 [MainProcess, 3805371] [INFO ]  Iteration 2, loss = 108.41813138127327
+08-14 10:43 [MainProcess, 3805984] [INFO ]  Data sets: ['mnistm', 'mnist', 'usps', 'svhn', 'syn']
+08-14 10:43 [MainProcess, 3805984] [INFO ]  ----------------------------------------------------------------------------------------------------
+08-14 10:43 [MainProcess, 3805984] [INFO ]  Training with domain adaptation using PyTorch madnNet: 
+08-14 10:43 [MainProcess, 3805984] [INFO ]  Hyperparameter setting = {'num_epochs': 20, 'batch_size': 100, 'lr': 0.1, 'mu': 0.01, 'num_domains': 4, 'mode': 'dynamic', 'gamma': 10.0, 'verbose': True}.
+08-14 10:43 [MainProcess, 3805984] [INFO ]  Iteration 0, loss = 222.52274054288864
+08-14 10:44 [MainProcess, 3805984] [INFO ]  Iteration 1, loss = 131.2174482345581
+08-14 10:44 [MainProcess, 3805984] [INFO ]  Iteration 2, loss = 109.97361561655998
+08-14 10:44 [MainProcess, 3805984] [INFO ]  Iteration 3, loss = 92.919578820467
+08-14 10:44 [MainProcess, 3805984] [INFO ]  Iteration 4, loss = 84.17818230390549
+08-14 10:44 [MainProcess, 3805984] [INFO ]  Iteration 5, loss = 76.22701805830002
+08-14 10:44 [MainProcess, 3805984] [INFO ]  Iteration 6, loss = 68.9369992762804
+08-14 10:44 [MainProcess, 3805984] [INFO ]  Iteration 7, loss = 63.76778545975685
+08-14 10:45 [MainProcess, 3805984] [INFO ]  Iteration 8, loss = 60.37849706411362
+08-14 10:45 [MainProcess, 3805984] [INFO ]  Iteration 9, loss = 55.70735327899456
+08-14 10:45 [MainProcess, 3805984] [INFO ]  Iteration 10, loss = 54.42510141432285
+08-14 10:45 [MainProcess, 3805984] [INFO ]  Iteration 11, loss = 52.181463211774826
+08-14 10:45 [MainProcess, 3805984] [INFO ]  Iteration 12, loss = 49.52858163416386
+08-14 10:45 [MainProcess, 3805984] [INFO ]  Iteration 13, loss = 48.69915787875652
+08-14 10:45 [MainProcess, 3805984] [INFO ]  Iteration 14, loss = 46.24015927314758
+08-14 10:45 [MainProcess, 3805984] [INFO ]  Iteration 15, loss = 45.87416709959507
+08-14 10:46 [MainProcess, 3805984] [INFO ]  Iteration 16, loss = 45.20077523589134
+08-14 10:46 [MainProcess, 3805984] [INFO ]  Iteration 17, loss = 44.56606610119343
+08-14 10:46 [MainProcess, 3805984] [INFO ]  Iteration 18, loss = 43.75818654894829
+08-14 10:46 [MainProcess, 3805984] [INFO ]  Iteration 19, loss = 43.70188492536545
+08-14 10:51 [MainProcess, 3832358] [INFO ]  Data sets: ['mnistm', 'mnist', 'usps', 'svhn', 'syn']
+08-14 10:51 [MainProcess, 3832358] [INFO ]  ----------------------------------------------------------------------------------------------------
+08-14 10:51 [MainProcess, 3832358] [INFO ]  Training with domain adaptation using PyTorch madnNet: 
+08-14 10:51 [MainProcess, 3832358] [INFO ]  Hyperparameter setting = {'num_epochs': 5, 'batch_size': 100, 'lr': 0.1, 'mu': 0.01, 'num_domains': 4, 'mode': 'dynamic', 'gamma': 10.0, 'verbose': True}.
+08-14 10:51 [MainProcess, 3832358] [INFO ]  Iteration 0, loss = 222.24445521831512
+08-14 10:51 [MainProcess, 3832358] [INFO ]  Iteration 1, loss = 131.69128388166428
+08-14 10:51 [MainProcess, 3832358] [INFO ]  Iteration 2, loss = 110.36401379108429
+08-14 10:52 [MainProcess, 3832358] [INFO ]  Iteration 3, loss = 93.63387081027031
+08-14 10:52 [MainProcess, 3832358] [INFO ]  Iteration 4, loss = 84.25931212306023
+08-14 10:57 [MainProcess, 3865776] [INFO ]  Data sets: ['mnistm', 'mnist', 'usps', 'svhn', 'syn']
+08-14 10:57 [MainProcess, 3865776] [INFO ]  ----------------------------------------------------------------------------------------------------
+08-14 10:57 [MainProcess, 3865776] [INFO ]  Training with domain adaptation using PyTorch madnNet: 
+08-14 10:57 [MainProcess, 3865776] [INFO ]  Hyperparameter setting = {'num_epochs': 5, 'batch_size': 100, 'lr': 0.1, 'mu': 0.01, 'num_domains': 4, 'mode': 'dynamic', 'gamma': 10.0, 'verbose': True}.
+08-14 10:57 [MainProcess, 3865776] [INFO ]  Iteration 0, loss = 223.30866554379463
+08-14 10:57 [MainProcess, 3865776] [INFO ]  Iteration 1, loss = 132.37880262732506
+08-14 10:57 [MainProcess, 3865776] [INFO ]  Iteration 2, loss = 110.2533261179924
+08-14 10:57 [MainProcess, 3865776] [INFO ]  Iteration 3, loss = 93.63310712575912
+08-14 10:57 [MainProcess, 3865776] [INFO ]  Iteration 4, loss = 83.696218714118
+08-14 11:03 [MainProcess, 3876619] [INFO ]  Data sets: ['mnistm', 'mnist', 'usps', 'svhn', 'syn']
+08-14 11:03 [MainProcess, 3876619] [INFO ]  ----------------------------------------------------------------------------------------------------
+08-14 11:03 [MainProcess, 3876619] [INFO ]  Training with domain adaptation using PyTorch madnNet: 
+08-14 11:03 [MainProcess, 3876619] [INFO ]  Hyperparameter setting = {'num_epochs': 2, 'batch_size': 100, 'lr': 0.1, 'mu': 0.01, 'num_domains': 4, 'mode': 'dynamic', 'gamma': 10.0, 'verbose': True}.
+08-14 11:03 [MainProcess, 3876619] [INFO ]  Iteration 0, loss = 224.15633285045624
+08-14 11:03 [MainProcess, 3876619] [INFO ]  Iteration 1, loss = 134.0605849325657
+08-15 04:32 [MainProcess, 3932356] [INFO ]  Data sets: ['mnistm', 'mnist', 'usps', 'svhn', 'syn']
+08-15 04:32 [MainProcess, 3932356] [INFO ]  ----------------------------------------------------------------------------------------------------
+08-15 04:32 [MainProcess, 3932356] [INFO ]  Training with domain adaptation using PyTorch madnNet: 
+08-15 04:32 [MainProcess, 3932356] [INFO ]  Hyperparameter setting = {'num_epochs': 2, 'batch_size': 100, 'lr': 0.1, 'mu': 0.01, 'num_domains': 4, 'mode': 'dynamic', 'gamma': 10.0, 'verbose': True}.
+08-15 04:32 [MainProcess, 3932356] [INFO ]  Iteration 0, loss = 204.3111610710621
+08-15 04:33 [MainProcess, 3932356] [INFO ]  Iteration 1, loss = 119.02946656942368
+08-15 05:00 [MainProcess, 3938633] [INFO ]  Data sets: ['mnist', 'mnistm', 'usps', 'svhn']
+08-15 05:00 [MainProcess, 3938633] [INFO ]  ----------------------------------------------------------------------------------------------------
+08-15 05:00 [MainProcess, 3938633] [INFO ]  Training with domain adaptation using PyTorch madnNet: 
+08-15 05:00 [MainProcess, 3938633] [INFO ]  Hyperparameter setting = {'num_epochs': 20, 'batch_size': 100, 'lr': 0.1, 'mu': 0.01, 'num_domains': 3, 'mode': 'dynamic', 'gamma': 10.0, 'verbose': True}.
+08-15 05:00 [MainProcess, 3938633] [INFO ]  Iteration 0, loss = 190.89657539129257
+08-15 05:00 [MainProcess, 3938633] [INFO ]  Iteration 1, loss = 100.08892028033733
+08-15 05:00 [MainProcess, 3938633] [INFO ]  Iteration 2, loss = 81.9025327861309
+08-15 05:00 [MainProcess, 3938633] [INFO ]  Iteration 3, loss = 69.02058607339859
+08-15 05:00 [MainProcess, 3938633] [INFO ]  Iteration 4, loss = 59.99282604455948
+08-15 05:01 [MainProcess, 3938633] [INFO ]  Iteration 5, loss = 54.82277810573578
+08-15 05:01 [MainProcess, 3938633] [INFO ]  Iteration 6, loss = 50.714789524674416
+08-15 05:01 [MainProcess, 3938633] [INFO ]  Iteration 7, loss = 45.39763914048672
+08-15 05:01 [MainProcess, 3938633] [INFO ]  Iteration 8, loss = 42.59798149764538
+08-15 05:01 [MainProcess, 3938633] [INFO ]  Iteration 9, loss = 39.933303609490395
+08-15 05:01 [MainProcess, 3938633] [INFO ]  Iteration 10, loss = 38.17244862020016
+08-15 05:01 [MainProcess, 3938633] [INFO ]  Iteration 11, loss = 37.4808384925127
+08-15 05:02 [MainProcess, 3938633] [INFO ]  Iteration 12, loss = 36.94291916489601
+08-15 05:02 [MainProcess, 3938633] [INFO ]  Iteration 13, loss = 36.112382382154465
+08-15 05:02 [MainProcess, 3938633] [INFO ]  Iteration 14, loss = 34.65029960870743
+08-15 05:02 [MainProcess, 3938633] [INFO ]  Iteration 15, loss = 34.459479570388794
+08-15 05:02 [MainProcess, 3938633] [INFO ]  Iteration 16, loss = 34.227450639009476
+08-15 05:02 [MainProcess, 3938633] [INFO ]  Iteration 17, loss = 33.96517623960972
+08-15 05:02 [MainProcess, 3938633] [INFO ]  Iteration 18, loss = 33.80543230473995
+08-15 05:02 [MainProcess, 3938633] [INFO ]  Iteration 19, loss = 33.29525516927242
+08-15 05:05 [MainProcess, 3953934] [INFO ]  Data sets: ['mnist', 'mnistm', 'usps', 'syn']
+08-15 05:05 [MainProcess, 3953934] [INFO ]  ----------------------------------------------------------------------------------------------------
+08-15 05:05 [MainProcess, 3953934] [INFO ]  Training with domain adaptation using PyTorch madnNet: 
+08-15 05:05 [MainProcess, 3953934] [INFO ]  Hyperparameter setting = {'num_epochs': 20, 'batch_size': 100, 'lr': 0.1, 'mu': 0.01, 'num_domains': 3, 'mode': 'dynamic', 'gamma': 10.0, 'verbose': True}.
+08-15 05:05 [MainProcess, 3953934] [INFO ]  Iteration 0, loss = 107.62484486401081
+08-15 05:05 [MainProcess, 3953934] [INFO ]  Iteration 1, loss = 54.31331126391888
+08-15 05:05 [MainProcess, 3953934] [INFO ]  Iteration 2, loss = 46.70382472872734
+08-15 05:05 [MainProcess, 3953934] [INFO ]  Iteration 3, loss = 42.17103487253189
+08-15 05:05 [MainProcess, 3953934] [INFO ]  Iteration 4, loss = 38.83430673182011
+08-15 05:05 [MainProcess, 3953934] [INFO ]  Iteration 5, loss = 37.37351170182228
+08-15 05:06 [MainProcess, 3953934] [INFO ]  Iteration 6, loss = 36.07173016667366
+08-15 05:06 [MainProcess, 3953934] [INFO ]  Iteration 7, loss = 35.61052042245865
+08-15 05:06 [MainProcess, 3953934] [INFO ]  Iteration 8, loss = 34.04827409982681
+08-15 05:06 [MainProcess, 3953934] [INFO ]  Iteration 9, loss = 33.723098024725914
+08-15 05:06 [MainProcess, 3953934] [INFO ]  Iteration 10, loss = 33.263902723789215
+08-15 05:06 [MainProcess, 3953934] [INFO ]  Iteration 11, loss = 33.158783838152885
+08-15 05:06 [MainProcess, 3953934] [INFO ]  Iteration 12, loss = 32.51019857078791
+08-15 05:06 [MainProcess, 3953934] [INFO ]  Iteration 13, loss = 32.436499282717705
+08-15 05:07 [MainProcess, 3953934] [INFO ]  Iteration 14, loss = 32.51046711951494
+08-15 05:07 [MainProcess, 3953934] [INFO ]  Iteration 15, loss = 32.106771521270275
+08-15 05:07 [MainProcess, 3953934] [INFO ]  Iteration 16, loss = 32.10194203257561
+08-15 05:07 [MainProcess, 3953934] [INFO ]  Iteration 17, loss = 31.826806105673313
+08-15 05:07 [MainProcess, 3953934] [INFO ]  Iteration 18, loss = 31.922503784298897
+08-15 05:07 [MainProcess, 3953934] [INFO ]  Iteration 19, loss = 31.761914439499378
+08-15 05:11 [MainProcess, 3971939] [INFO ]  Data sets: ['mnist', 'mnistm', 'svhn', 'syn']
+08-15 05:11 [MainProcess, 3971939] [INFO ]  ----------------------------------------------------------------------------------------------------
+08-15 05:11 [MainProcess, 3971939] [INFO ]  Training with domain adaptation using PyTorch madnNet: 
+08-15 05:11 [MainProcess, 3971939] [INFO ]  Hyperparameter setting = {'num_epochs': 20, 'batch_size': 100, 'lr': 0.1, 'mu': 0.01, 'num_domains': 3, 'mode': 'dynamic', 'gamma': 10.0, 'verbose': True}.
+08-15 05:11 [MainProcess, 3971939] [INFO ]  Iteration 0, loss = 188.07535380125046
+08-15 05:11 [MainProcess, 3971939] [INFO ]  Iteration 1, loss = 104.01993724703789
+08-15 05:11 [MainProcess, 3971939] [INFO ]  Iteration 2, loss = 87.7412184625864
+08-15 05:11 [MainProcess, 3971939] [INFO ]  Iteration 3, loss = 76.94556684792042
+08-15 05:11 [MainProcess, 3971939] [INFO ]  Iteration 4, loss = 64.18118533492088
+08-15 05:12 [MainProcess, 3971939] [INFO ]  Iteration 5, loss = 58.63030098378658
+08-15 05:12 [MainProcess, 3971939] [INFO ]  Iteration 6, loss = 53.68987391889095
+08-15 05:12 [MainProcess, 3971939] [INFO ]  Iteration 7, loss = 49.6951757222414
+08-15 05:12 [MainProcess, 3971939] [INFO ]  Iteration 8, loss = 46.90725192427635
+08-15 05:12 [MainProcess, 3971939] [INFO ]  Iteration 9, loss = 44.44730959832668
+08-15 05:12 [MainProcess, 3971939] [INFO ]  Iteration 10, loss = 41.91357210278511
+08-15 05:12 [MainProcess, 3971939] [INFO ]  Iteration 11, loss = 40.8518807888031
+08-15 05:12 [MainProcess, 3971939] [INFO ]  Iteration 12, loss = 39.52440248429775
+08-15 05:12 [MainProcess, 3971939] [INFO ]  Iteration 13, loss = 38.25998818874359
+08-15 05:13 [MainProcess, 3971939] [INFO ]  Iteration 14, loss = 37.12762349843979
+08-15 05:13 [MainProcess, 3971939] [INFO ]  Iteration 15, loss = 36.9989787787199
+08-15 05:13 [MainProcess, 3971939] [INFO ]  Iteration 16, loss = 36.24358478188515
+08-15 05:13 [MainProcess, 3971939] [INFO ]  Iteration 17, loss = 35.79311418533325
+08-15 05:13 [MainProcess, 3971939] [INFO ]  Iteration 18, loss = 35.32779462635517
+08-15 05:13 [MainProcess, 3971939] [INFO ]  Iteration 19, loss = 34.847380355000496
+08-15 05:16 [MainProcess, 3989071] [INFO ]  Data sets: ['usps', 'mnistm', 'svhn', 'syn']
+08-15 05:16 [MainProcess, 3989071] [INFO ]  ----------------------------------------------------------------------------------------------------
+08-15 05:16 [MainProcess, 3989071] [INFO ]  Training with domain adaptation using PyTorch madnNet: 
+08-15 05:16 [MainProcess, 3989071] [INFO ]  Hyperparameter setting = {'num_epochs': 20, 'batch_size': 100, 'lr': 0.1, 'mu': 0.01, 'num_domains': 3, 'mode': 'dynamic', 'gamma': 10.0, 'verbose': True}.
+08-15 05:16 [MainProcess, 3989071] [INFO ]  Iteration 0, loss = 186.3593944311142
+08-15 05:17 [MainProcess, 3989071] [INFO ]  Iteration 1, loss = 103.65016233921051
+08-15 05:17 [MainProcess, 3989071] [INFO ]  Iteration 2, loss = 86.59168319404125
+08-15 05:17 [MainProcess, 3989071] [INFO ]  Iteration 3, loss = 73.46087282896042
+08-15 05:18 [MainProcess, 3989071] [INFO ]  Iteration 4, loss = 65.19989347457886
+08-15 05:18 [MainProcess, 3989071] [INFO ]  Iteration 5, loss = 57.74863751232624
+08-15 05:18 [MainProcess, 3989071] [INFO ]  Iteration 6, loss = 52.89319223165512
+08-15 05:18 [MainProcess, 3989071] [INFO ]  Iteration 7, loss = 48.886289909482
+08-15 05:18 [MainProcess, 3989071] [INFO ]  Iteration 8, loss = 45.346538826823235
+08-15 05:18 [MainProcess, 3989071] [INFO ]  Iteration 9, loss = 43.12046009302139
+08-15 05:18 [MainProcess, 3989071] [INFO ]  Iteration 10, loss = 40.73822046816349
+08-15 05:19 [MainProcess, 3989071] [INFO ]  Iteration 11, loss = 39.42188538610935
+08-15 05:19 [MainProcess, 3989071] [INFO ]  Iteration 12, loss = 38.257758632302284
+08-15 05:19 [MainProcess, 3989071] [INFO ]  Iteration 13, loss = 37.43918305635452
+08-15 05:19 [MainProcess, 3989071] [INFO ]  Iteration 14, loss = 36.802031829953194
+08-15 05:19 [MainProcess, 3989071] [INFO ]  Iteration 15, loss = 36.11992944777012
+08-15 05:19 [MainProcess, 3989071] [INFO ]  Iteration 16, loss = 35.237405985593796
+08-15 05:19 [MainProcess, 3989071] [INFO ]  Iteration 17, loss = 34.79397912323475
+08-15 05:19 [MainProcess, 3989071] [INFO ]  Iteration 18, loss = 34.236772790551186
+08-15 05:19 [MainProcess, 3989071] [INFO ]  Iteration 19, loss = 34.24291980266571
+08-15 05:23 [MainProcess, 4006486] [INFO ]  Data sets: ['usps', 'mnistm', 'svhn', 'syn']
+08-15 05:23 [MainProcess, 4006486] [INFO ]  ----------------------------------------------------------------------------------------------------
+08-15 05:23 [MainProcess, 4006486] [INFO ]  Training with domain adaptation using PyTorch madnNet: 
+08-15 05:23 [MainProcess, 4006486] [INFO ]  Hyperparameter setting = {'num_epochs': 20, 'batch_size': 100, 'lr': 0.1, 'mu': 0.01, 'num_domains': 3, 'mode': 'dynamic', 'gamma': 10.0, 'verbose': True}.
+08-15 05:23 [MainProcess, 4006486] [INFO ]  Iteration 0, loss = 186.7907519042492
+08-15 05:24 [MainProcess, 4006486] [INFO ]  Iteration 1, loss = 103.87703901529312
+08-15 05:24 [MainProcess, 4006486] [INFO ]  Iteration 2, loss = 86.73776459693909
+08-15 05:24 [MainProcess, 4006486] [INFO ]  Iteration 3, loss = 72.95565694570541
+08-15 05:24 [MainProcess, 4006486] [INFO ]  Iteration 4, loss = 65.31419634819031
+08-15 05:24 [MainProcess, 4006486] [INFO ]  Iteration 5, loss = 57.60367006063461
+08-15 05:24 [MainProcess, 4006486] [INFO ]  Iteration 6, loss = 53.31784275174141
+08-15 05:24 [MainProcess, 4006486] [INFO ]  Iteration 7, loss = 48.89499920606613
+08-15 05:24 [MainProcess, 4006486] [INFO ]  Iteration 8, loss = 45.49099211394787
+08-15 05:24 [MainProcess, 4006486] [INFO ]  Iteration 9, loss = 42.52712424099445
+08-15 05:25 [MainProcess, 4006486] [INFO ]  Iteration 10, loss = 40.80438809096813
+08-15 05:25 [MainProcess, 4006486] [INFO ]  Iteration 11, loss = 39.088274136185646
+08-15 05:25 [MainProcess, 4006486] [INFO ]  Iteration 12, loss = 38.177038729190826
+08-15 05:25 [MainProcess, 4006486] [INFO ]  Iteration 13, loss = 37.017408818006516
+08-15 05:25 [MainProcess, 4006486] [INFO ]  Iteration 14, loss = 36.713403806090355
+08-15 05:25 [MainProcess, 4006486] [INFO ]  Iteration 15, loss = 35.86133234202862
+08-15 05:25 [MainProcess, 4006486] [INFO ]  Iteration 16, loss = 35.424796268343925
+08-15 05:25 [MainProcess, 4006486] [INFO ]  Iteration 17, loss = 34.78141660988331
+08-15 05:26 [MainProcess, 4006486] [INFO ]  Iteration 18, loss = 34.45869332551956
+08-15 05:26 [MainProcess, 4006486] [INFO ]  Iteration 19, loss = 33.626441195607185
+08-15 05:26 [MainProcess, 4006486] [INFO ]  Prediction accuracy on mnistm = 0.12111111111111111, time used = 142.9549264907837 seconds.
+08-15 05:34 [MainProcess, 4026657] [INFO ]  Data sets: ['usps', 'mnistm', 'svhn', 'mnist']
+08-15 05:34 [MainProcess, 4026657] [INFO ]  ----------------------------------------------------------------------------------------------------
+08-15 05:34 [MainProcess, 4026657] [INFO ]  Training with domain adaptation using PyTorch madnNet: 
+08-15 05:34 [MainProcess, 4026657] [INFO ]  Hyperparameter setting = {'num_epochs': 20, 'batch_size': 100, 'lr': 0.1, 'mu': 0.01, 'num_domains': 3, 'mode': 'dynamic', 'gamma': 10.0, 'verbose': True}.
+08-15 05:35 [MainProcess, 4026657] [INFO ]  Iteration 0, loss = 207.86701530218124
+08-15 05:35 [MainProcess, 4026657] [INFO ]  Iteration 1, loss = 115.30657976865768
+08-15 05:35 [MainProcess, 4026657] [INFO ]  Iteration 2, loss = 94.10119618475437
+08-15 05:35 [MainProcess, 4026657] [INFO ]  Iteration 3, loss = 80.34386356174946
+08-15 05:35 [MainProcess, 4026657] [INFO ]  Iteration 4, loss = 70.57986636459827
+08-15 05:36 [MainProcess, 4026657] [INFO ]  Iteration 5, loss = 62.33029593527317
+08-15 05:36 [MainProcess, 4026657] [INFO ]  Iteration 6, loss = 57.317271307110786
+08-15 05:36 [MainProcess, 4026657] [INFO ]  Iteration 7, loss = 52.398911252617836
+08-15 05:36 [MainProcess, 4026657] [INFO ]  Iteration 8, loss = 48.29776740074158
+08-15 05:36 [MainProcess, 4026657] [INFO ]  Iteration 9, loss = 44.628827944397926
+08-15 05:36 [MainProcess, 4026657] [INFO ]  Iteration 10, loss = 43.37179680168629
+08-15 05:36 [MainProcess, 4026657] [INFO ]  Iteration 11, loss = 40.483660742640495
+08-15 05:36 [MainProcess, 4026657] [INFO ]  Iteration 12, loss = 39.12523454427719
+08-15 05:37 [MainProcess, 4026657] [INFO ]  Iteration 13, loss = 38.62200392782688
+08-15 05:37 [MainProcess, 4026657] [INFO ]  Iteration 14, loss = 37.6053741723299
+08-15 05:37 [MainProcess, 4026657] [INFO ]  Iteration 15, loss = 36.682669043540955
+08-15 05:37 [MainProcess, 4026657] [INFO ]  Iteration 16, loss = 35.72063805162907
+08-15 05:37 [MainProcess, 4026657] [INFO ]  Iteration 17, loss = 35.980714827775955
+08-15 05:37 [MainProcess, 4026657] [INFO ]  Iteration 18, loss = 34.35674002766609
+08-15 05:37 [MainProcess, 4026657] [INFO ]  Iteration 19, loss = 33.674838334321976
+08-15 05:37 [MainProcess, 4026657] [INFO ]  Prediction accuracy on mnist = 0.986, time used = 184.9797477722168 seconds.
+08-15 05:40 [MainProcess, 4043176] [INFO ]  Data sets: ['usps', 'mnistm', 'syn', 'mnist']
+08-15 05:40 [MainProcess, 4043176] [INFO ]  ----------------------------------------------------------------------------------------------------
+08-15 05:40 [MainProcess, 4043176] [INFO ]  Training with domain adaptation using PyTorch madnNet: 
+08-15 05:40 [MainProcess, 4043176] [INFO ]  Hyperparameter setting = {'num_epochs': 20, 'batch_size': 100, 'lr': 0.1, 'mu': 0.01, 'num_domains': 3, 'mode': 'dynamic', 'gamma': 10.0, 'verbose': True}.
+08-15 05:40 [MainProcess, 4043176] [INFO ]  Iteration 0, loss = 144.0646638572216
+08-15 05:40 [MainProcess, 4043176] [INFO ]  Iteration 1, loss = 74.40106000006199
+08-15 05:40 [MainProcess, 4043176] [INFO ]  Iteration 2, loss = 59.07647189497948
+08-15 05:40 [MainProcess, 4043176] [INFO ]  Iteration 3, loss = 52.76256524026394
+08-15 05:41 [MainProcess, 4043176] [INFO ]  Iteration 4, loss = 46.477569699287415
+08-15 05:41 [MainProcess, 4043176] [INFO ]  Iteration 5, loss = 44.14433045685291
+08-15 05:41 [MainProcess, 4043176] [INFO ]  Iteration 6, loss = 41.34894056618214
+08-15 05:41 [MainProcess, 4043176] [INFO ]  Iteration 7, loss = 39.55364868044853
+08-15 05:41 [MainProcess, 4043176] [INFO ]  Iteration 8, loss = 37.21852608025074
+08-15 05:41 [MainProcess, 4043176] [INFO ]  Iteration 9, loss = 36.408841639757156
+08-15 05:41 [MainProcess, 4043176] [INFO ]  Iteration 10, loss = 35.01098884642124
+08-15 05:41 [MainProcess, 4043176] [INFO ]  Iteration 11, loss = 34.95379181206226
+08-15 05:42 [MainProcess, 4043176] [INFO ]  Iteration 12, loss = 34.52742338180542
+08-15 05:42 [MainProcess, 4043176] [INFO ]  Iteration 13, loss = 34.34023874998093
+08-15 05:42 [MainProcess, 4043176] [INFO ]  Iteration 14, loss = 33.43896722793579
+08-15 05:42 [MainProcess, 4043176] [INFO ]  Iteration 15, loss = 33.19429272413254
+08-15 05:42 [MainProcess, 4043176] [INFO ]  Iteration 16, loss = 33.135891713202
+08-15 05:42 [MainProcess, 4043176] [INFO ]  Iteration 17, loss = 32.74786051362753
+08-15 05:42 [MainProcess, 4043176] [INFO ]  Iteration 18, loss = 32.594679929316044
+08-15 05:43 [MainProcess, 4043176] [INFO ]  Iteration 19, loss = 32.175691336393356
+08-15 05:43 [MainProcess, 4043176] [INFO ]  Prediction accuracy on mnist = 0.986, time used = 159.5572350025177 seconds.
